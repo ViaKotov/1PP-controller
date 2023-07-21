@@ -1,8 +1,9 @@
 # 1PP-controller (in development)
 
-A simple 1st-person controller with [W][S][A][D] controls, [LShift] to acceleration, mouse camera control and ability to jump via [Space]
+A simple first-person controller with `[W][S][A][D]` controls, `[LShift]` to acceleration, mouse camera control and ability to jump via `[Space]`
 
-Jump ability works only with the ground objects that have Layer ID equal 6 (need to create new layer in inspector with ID: 6 and name it Ground)
+Jump ability works only with the ground objects that have Layer ID equal 6
+(need to create new layer in inspector with ID: 6 and name it Ground)
 
 ![image](https://github.com/ViaKotov/1PP-controller/assets/89484940/0386f3cd-db99-452a-91dd-4249176831f4)
 
@@ -12,8 +13,10 @@ or you could just change the script value LayerMask.NameToLayer("Ground") to som
 
 ![image](https://github.com/ViaKotov/1PP-controller/assets/89484940/497b4aaa-f041-40ef-b509-478d6c14c68b)
 
-TODO:
- * crouch ability
- * climbing ability
- * jump off the wall
- * shoot system
+Things i'm planning to do (done):
+- [ ] Camera soft motion
+- [ ] Crouch ability
+- [ ] Climbing ability
+- [ ] Jump off the wall
+- [ ] Shoot system
+- [ ] Pickup and interact system
