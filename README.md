@@ -3,7 +3,7 @@
 A simple first-person controller
 
 ## Controls
--  `[W][S][A][D]` - movement
+-  `[W][S][A][D]` - Movement
 -  `[LShift]` - Acceleration
 -  `[Space]` - Jump
 -  `[LCtrl]` - Crouch
