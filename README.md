@@ -12,4 +12,8 @@ or you could just change the script value LayerMask.NameToLayer("Ground") to som
 
 ![image](https://github.com/ViaKotov/1PP-controller/assets/89484940/497b4aaa-f041-40ef-b509-478d6c14c68b)
 
-
+TODO:
+ * crouch ability
+ * climbing ability
+ * jump off the wall
+ * shoot system
