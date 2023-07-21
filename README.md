@@ -9,7 +9,7 @@ A simple first-person controller
 -  `[LCtrl]` - Crouch
 
 ## Roadmap
-:green_circle: Things i'm planning to do (things i've already done):
+:green_circle: Things i'm planning to do (things that already done):
 - [x] :white_check_mark: Camera soft motion
 - [x] :white_check_mark: Crouch ability
 - [ ] :hourglass: Climbing ability
