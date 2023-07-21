@@ -20,3 +20,4 @@ Things i'm planning to do:
 - [ ] Jump off the wall
 - [ ] Shoot system
 - [ ] Pickup and interact system
+- [ ] Sound system
