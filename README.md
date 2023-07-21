@@ -1,7 +1,25 @@
 # 1PP-controller (in development)
 
-A simple first-person controller with `[W][S][A][D]` controls, `[LShift]` to acceleration, mouse camera control and ability to jump via `[Space]`
+A simple first-person controller
 
+## Controls
+-  `[W][S][A][D]` - movement
+-  `[LShift]` - Acceleration
+-  `[Space]` - Jump
+-  `[lCtrl]` - Crouch
+
+## Roadmap
+:green_circle: Things i'm planning to do (things i've already done):
+- [x] :white_check_mark: Camera soft motion
+- [x] :white_check_mark: Crouch ability
+- [ ] :hourglass: Climbing ability
+- [ ] :hourglass: Jump off the wall
+- [ ] :hourglass: Shoot system
+- [ ] :hourglass: Pickup and interact system
+- [ ] :hourglass: Sound system
+
+
+## Guide
 :warning: Required **Capsule object** with **Rigidbody** and **Camera object** as a child. Camera must be specified in `Character Camera field` in Inspector.
 
 Jump ability works only with the ground objects that have Layer ID equal 6
@@ -17,11 +35,3 @@ or you could just change the scripts value LayerMask.NameToLayer  **"Ground"** t
 
 
 
-:green_circle: Things i'm planning to do:
-- [x] Camera soft motion
-- [ ] Crouch ability
-- [ ] Climbing ability
-- [ ] Jump off the wall
-- [ ] Shoot system
-- [ ] Pickup and interact system
-- [ ] Sound system
