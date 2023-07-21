@@ -6,7 +6,7 @@ A simple first-person controller
 -  `[W][S][A][D]` - movement
 -  `[LShift]` - Acceleration
 -  `[Space]` - Jump
--  `[lCtrl]` - Crouch
+-  `[LCtrl]` - Crouch
 
 ## Roadmap
 :green_circle: Things i'm planning to do (things i've already done):
