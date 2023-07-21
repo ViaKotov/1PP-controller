@@ -8,7 +8,7 @@ Jump ability works only with the ground objects that have Layer ID equal 6 (need
 
 ![image](https://github.com/ViaKotov/1PP-controller/assets/89484940/8fa4f767-835e-459f-952d-c0d208af7469)
 
-or you could just change the script value LayerMask.NameToLayer("[b]Ground[/b]") to something else
+or you could just change the script value LayerMask.NameToLayer("Ground") to something else
 
 ![image](https://github.com/ViaKotov/1PP-controller/assets/89484940/497b4aaa-f041-40ef-b509-478d6c14c68b)
 
