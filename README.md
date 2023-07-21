@@ -1,4 +1,4 @@
-# 1PP-controller (in development)
+# FPS-controller (in development)
 
 A simple first-person controller
 
