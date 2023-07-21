@@ -13,7 +13,7 @@ or you could just change the scripts value LayerMask.NameToLayer  **"Ground"** t
 
 ![image](https://github.com/ViaKotov/1PP-controller/assets/89484940/497b4aaa-f041-40ef-b509-478d6c14c68b)
 
-Things i'm planning to do (done):
+Things i'm planning to do:
 - [ ] Camera soft motion
 - [ ] Crouch ability
 - [ ] Climbing ability
