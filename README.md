@@ -23,7 +23,7 @@ A simple first-person controller
 :warning: Required **Capsule object** with **Rigidbody** and **Camera object** as a child. Camera must be specified in `Character Camera field` in Inspector.
 
 Jump ability works only with the ground objects that have Layer ID equal 6
-(need to create new layer in inspector as **User Layer 6** and name it Ground)
+(need to create new layer in inspector as **User Layer 6** and name it **Ground**)
 
 ![image](https://github.com/ViaKotov/1PP-controller/assets/89484940/0386f3cd-db99-452a-91dd-4249176831f4)
 
