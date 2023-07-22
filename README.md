@@ -19,7 +19,7 @@ A simple first-person controller
 - [ ] :hourglass: Sound system
 
 
-## Guide
+## How to use
 :warning: Required **Capsule object** with **Rigidbody** and **Camera object** as a child. Camera must be specified in `Character Camera field` in Inspector.
 
 Jump ability works only with the ground objects that have Layer ID equal 6
