@@ -43,5 +43,6 @@ I'd checked `Is Trigger` in object's collider component in Inspector.
 ![image](https://github.com/ViaKotov/FPS-controller/assets/89484940/36e3e1fd-46b1-4884-ad92-6ce7d8644898)
 
 And there is separate script called `interLadder`, that you can edit. 
+
 :warning: The only condition to make it work fine is to assing character object tag **Player**
 
