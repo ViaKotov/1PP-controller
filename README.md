@@ -22,6 +22,7 @@ A simple first-person controller
 ## How to use
 :warning: Required **Capsule object** with **Rigidbody** and **Camera object** as a child. Camera must be specified in `Character Camera field` in Inspector.
 
+### Jumping
 Jump ability works only with the ground objects that have Layer ID equal 6
 (need to create new layer in inspector as **User Layer 6** and name it **Ground**)
 
@@ -33,5 +34,13 @@ or you could just change the script string value LayerMask.NameToLayer  **"Groun
 
 ![image](https://github.com/ViaKotov/1PP-controller/assets/89484940/497b4aaa-f041-40ef-b509-478d6c14c68b)
 
+### Ladder Climbing
+My way to realize ladder climbing was to create primitive object, change it collider position and scale it.
+![image](https://github.com/ViaKotov/FPS-controller/assets/89484940/9de6190a-8483-40db-bba0-292b989a3201)
+
+I have checked `Is Trigger` in object's collider component in Inspector.
+![image](https://github.com/ViaKotov/FPS-controller/assets/89484940/36e3e1fd-46b1-4884-ad92-6ce7d8644898)
+
+And of course, there is no way without write some codelines
 
 
