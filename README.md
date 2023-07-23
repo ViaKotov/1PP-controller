@@ -12,7 +12,7 @@ A simple first-person controller
 :green_circle: Things i'm planning to do (things that already done):
 - [x] :white_check_mark: Camera soft motion
 - [x] :white_check_mark: Crouch ability
-- [ ] :hourglass: Climbing ladders ability
+- [x] :white_check_mark: Climbing ladders ability
 - [ ] :hourglass: Jump off the wall
 - [ ] :hourglass: Shoot system
 - [ ] :hourglass: Pickup and interact system
