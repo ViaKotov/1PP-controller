@@ -38,9 +38,10 @@ or you could just change the script string value LayerMask.NameToLayer  **"Groun
 My way to realize ladder climbing was to create primitive object, change it collider position and scale it.
 ![image](https://github.com/ViaKotov/FPS-controller/assets/89484940/9de6190a-8483-40db-bba0-292b989a3201)
 
-I have checked `Is Trigger` in object's collider component in Inspector.
+I'd checked `Is Trigger` in object's collider component in Inspector.
+
 ![image](https://github.com/ViaKotov/FPS-controller/assets/89484940/36e3e1fd-46b1-4884-ad92-6ce7d8644898)
 
-And of course, there is no way without write some codelines
-
+And there is separate script called `interLadder`, that you can edit. 
+:warning: The only condition to make it work fine is to assing character object tag **Player**
 
