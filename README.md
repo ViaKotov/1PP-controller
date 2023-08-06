@@ -13,7 +13,7 @@ A simple first-person controller
 - [x] :white_check_mark: Camera soft motion
 - [x] :white_check_mark: Crouch ability
 - [x] :white_check_mark: Climbing ladders ability
-- [ ] :hourglass: Jump off the wall
+- [ ] :hourglass: Basic UI elements
 - [ ] :hourglass: Shoot system
 - [ ] :hourglass: Pickup and interact system
 - [ ] :hourglass: Sound system
